@@ -1,0 +1,3 @@
+===== KL Divergence Results =====
+KL(real || fake): 0.159241
+KL(fake || real): 0.137538
